@@ -67,4 +67,4 @@ npx ampx generate outputs --app-id d2kifahm4pmdj8 --branch main --format dart &&
 
 # Deploy website
 
-(cd jobturboappwebsite && npm run deploy)
+(cd jobturboappwebsite && CLOUDFLARE_API_TOKEN='' CLOUDFLARE_API_KEY='' npm run deploy)
