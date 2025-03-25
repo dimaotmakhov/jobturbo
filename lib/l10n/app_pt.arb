@@ -1,0 +1,282 @@
+{
+    "@_SCREENSHOTS": {},
+  "trackYourApplications": "Acompanhe Suas Candidaturas",
+  "monitorYourProgress": "Monitore Seu Progresso",
+  "effectively": "Efetivamente",
+  "efficiently": "Eficientemente",
+  "jobSearchAppGetsYou": "O Aplicativo de Busca de Emprego que Te Entende",
+  "hired": "Contratado",
+  "applyPositionsInDays": "Candidate-se a 100+ Vagas em 7 Dias",
+  "visualizeYourProgress": "Visualize Seu Progresso",
+  "clearly": "Claramente",
+  
+    "appTitle": "Job Turbo",
+    "welcomeTitle1": "Procure seu emprego em todo o mundo",
+    "welcomeDesc1": "Alcance empresas que procuram funcionários. Aqui está um tour rápido.",
+    "welcomeTitle2": "Aba de Solicitações",
+    "welcomeDesc2": "Receba mais ofertas desde o início com Solicitações de Emprego dinâmicas. Sua solicitação será repetida nos dias selecionados.",
+    "welcomeTitle3": "Aba de Candidatura",
+    "welcomeDesc3": "Capture vagas assim que começarem a ser publicadas. Sua candidatura aparecerá em destaque no topo da lista dos recrutadores.",
+    "welcomeTitle4": "Resultados das candidaturas",
+    "welcomeDesc4": "Alcance solicitações no momento em que pesquisam com uma proposta. Combinaremos sua solicitação com empresas com base em um sinal direto de sua intenção - seu termo de pesquisa.",
+    "welcomeTitle5": "Links diretos para sites das empresas",
+    "welcomeDesc5": "Alcance empresas diretamente quando elas estiverem pesquisando ativamente o mercado e obtendo informações para ajudá-las a decidir sobre contratação. Sua solicitação aparecerá para empresas interessadas sem intermediários.",
+    "welcomeTitle6": "Estamos aqui para ajudar",
+    "welcomeDesc6": "Ajudaremos você a receber mais ofertas e se candidatar a mais vagas.",
+    "skip": "PULAR",
+    "next": "PRÓXIMO",
+    "done": "CONCLUIR",
+    "navRequest": "Pedido",
+    "navApply": "Candidatar",
+    "navProgress": "Progresso",
+
+    "@_JOB_LIST_SCREEN": {},
+    "noAppliedJobs": "Nenhuma vaga aplicada encontrada ainda",
+    "noPendingJobs": "Nenhuma vaga pendente encontrada ainda",
+    "noRejectedJobs": "Nenhuma vaga rejeitada encontrada ainda",
+    "noSuccessfulJobs": "Nenhuma candidatura bem-sucedida encontrada ainda",
+    "noJobs": "Nenhuma vaga encontrada ainda",
+
+    "@_APPLY_SCREEN": {},
+    "jobApplications": "Candidaturas",
+    "toApply": "Para Aplicar",
+    "applied": "Aplicado",
+    "noJobListings": "Nenhuma vaga encontrada",
+    "markAsNotApplied": "Marcar como não aplicado",
+    "subscribeForUpdates": "Mostrando apenas parte dos empregos. Para ver todos os empregos, assine o PRO",
+    
+    "@_REQUEST_SCREEN": {},
+    "requests": "Pedidos",
+    "noRequests": "Nenhum pedido ainda. Toque em + para adicionar.",
+    "addNewRequest": "Adicionar Novo Pedido",
+    "selectCountry": "Selecionar país",
+    "country": "País",
+    "pleaseSelectCountry": "Por favor, selecione um país",
+    "location": "Localização",
+    "enterLocation": "Digite a localização",
+    "pleaseEnterLocation": "Por favor, digite a localização",
+    "position": "Cargo",
+    "enterPosition": "Digite o cargo",
+    "pleaseEnterPosition": "Por favor, digite o cargo",
+    "keywords": "Palavras-chave",
+    "enterKeywordsSeparated": "Digite palavras-chave separadas por vírgulas",
+    "newBadge": "novo",
+    "cancel": "Cancelar",
+    "create": "Criar",
+    "countryLabel": "País: {country}",
+    "locationLabel": "Localização: {location}",
+    "keywordsLabel": "Palavras-chave: {keywords}",
+
+    "@_PROGRESS_SCREEN": {},
+    "applicationProgress": "Progresso das Candidaturas",
+    "appliedJobs": "Vagas Aplicadas",
+    "pendingJobs": "Vagas Pendentes",
+    "rejectedJobs": "Vagas Rejeitadas",
+    "successfulApplications": "Candidaturas Bem-sucedidas",
+    "appliedStatus": "Aplicado",
+    "noAnswerStatus": "Sem Resposta",
+    "rejectedStatus": "Rejeitado",
+    "successfulStatus": "Bem-sucedido",
+    "@_JOB_DETAIL_SCREEN": {},
+    "skillsAndTechnologies": "Habilidades e Tecnologias",
+    "aboutTheCompany": "Sobre a Empresa",
+    "noCompanyDescription": "Nenhuma descrição da empresa disponível.",
+    "applyVia": "Candidatar-se via",
+    "markAsApplied": "Marcar como Candidatado",
+    "applied": "Candidatado",
+    "tryAgain": "Tentar novamente",
+    "goBack": "Voltar",
+    "errorLoadingJobPosting": "Não foi possível carregar a vaga. Tente novamente mais tarde.",
+    "errorRequestTimeout": "Não foi possível carregar a vaga. O tempo de solicitação expirou.",
+
+    "@_PAYWALL_SCREEN": {},
+    "premium": "Premium",
+    "premiumSubtitle": "Tenha acesso a todos os recursos premium",
+    "featureAllJobListings": "Todas as vagas de emprego",
+    "planWeek": "1 Semana",
+    "planYear": "1 Ano",
+    "bestValue": "Melhor Valor",
+    "errorPurchaseNotAvailable": "Compras no aplicativo não estão disponíveis neste dispositivo.",
+    "errorWebPurchase": "Compras no aplicativo não estão disponíveis na web. Por favor, use nosso aplicativo móvel.",
+    "errorFailedToLoad": "Falha ao carregar opções de assinatura",
+    "errorPurchasePending": "Aguarde a conclusão da compra atual",
+    "errorPurchaseFailed": "Compra falhou: {error}",
+    "@errorPurchaseFailed": {
+        "placeholders": {
+            "error": {
+                "type": "Object"
+            }
+        }
+    },
+    "useMobileApp": "Por favor, use nosso aplicativo móvel para comprar.",
+
+    "@_ACCOUNT_SETTINGS": {},
+    "deleteAccount": "Excluir conta",
+    "deleteAccountConfirmation": "Tem certeza de que deseja excluir sua conta? Esta ação não pode ser desfeita.",
+    "delete": "Excluir",
+    "cancel": "Cancelar",
+
+    "@_AUTHENTICATION": {},
+    "hello": "Olá {firstName}!",
+    "@hello": {
+        "placeholders": {
+            "firstName": {
+                "type": "String",
+                "example": "Bob"
+            }
+        }
+    },
+    "signIn": "Entrar",
+    "signUp": "Criar Conta",
+    "confirm": "Confirmar",
+    "continueLabel": "Continuar",
+    "submit": "Enviar",
+    "changePassword": "Alterar Senha",
+    "sendCode": "Enviar Código",
+    "lostCode": "Perdeu seu código?",
+    "verify": "Verificar",
+    "signOut": "Sair",
+    "signInWith": "Entrar com {provider}",
+    "@signInWith": {
+        "placeholders": {
+            "provider": {
+                "type": "String",
+                "example": "Google"
+            }
+        }
+    },
+    "noAccount": "Não tem conta?",
+    "haveAccount": "Já tem uma conta?",
+    "forgotPassword": "Esqueceu sua senha?",
+    "confirmResetPassword": "Redefinir Senha",
+    "backTo": "Voltar para {previousStep}",
+    "@backTo": {
+        "placeholders": {
+            "previousStep": {
+                "type": "String",
+                "example": "Entrar"
+            }
+        }
+    },
+    "skip": "Pular",
+    "copyKey": "Copiar Chave",
+    "confirmSignUp": "Confirmar Cadastro",
+    "confirmSignInMfa": "Confirmar Login",
+    "confirmSignInNewPassword": "Confirmar Login",
+    "resetPassword": "Redefinir Senha",
+    "verifyUser": "Verificar Usuário",
+    "confirmVerifyUser": "Confirmar Verificação de Usuário",
+    "username": "Nome de usuário",
+    "password": "Senha",
+    "confirmAttribute": "Confirmar {attribute}",
+    "@confirmAttribute": {
+        "placeholders": {
+        "attribute": {
+            "type": "String",
+            "example": "Senha"
+        }
+        }
+    },
+    "passwordsDoNotMatch": "As senhas não coincidem",
+    "newPassword": "Nova Senha",
+    "passwordConfirmation": "Confirmar Senha",
+    "verificationCode": "Código de Verificação",
+    "customChallenge": "Código de Confirmação",
+    "address": "Endereço",
+    "birthdate": "Data de Nascimento",
+    "email": "Email",
+    "familyName": "Sobrenome",
+    "gender": "Gênero",
+    "givenName": "Nome",
+    "middleName": "Nome do Meio",
+    "name": "Nome",
+    "nickname": "Apelido",
+    "phoneNumber": "Número de Telefone",
+    "preferredUsername": "Nome de Usuário Preferido",
+    "rememberDevice": "Lembrar Dispositivo?",
+    "selectSms": "Mensagem de Texto (SMS)",
+    "selectTotp": "Aplicativo Autenticador (TOTP)",
+    "totpCodePrompt": "Por favor, insira o código do seu aplicativo autenticador registrado",
+    "usernameType": "Fazer login usando:",
+    "promptFill": "Digite seu {attribute}",
+    "@promptFill": {
+        "placeholders": {
+            "attribute": {
+                "type": "String",
+                "example": "Email"
+            }
+        }
+    },
+    "promptRefill": "Digite novamente seu {attribute}",
+    "@promptRefill": {
+        "placeholders": {
+            "attribute": {
+                "type": "String",
+                "example": "Password"
+            }
+        }
+    },
+    "warnEmpty": "O campo {attribute} não pode estar vazio.",
+    "@warnEmpty": {
+        "placeholders": {
+            "attribute": {
+                "type": "String",
+                "example": "Password"
+            }
+        }
+    },
+    "warnInvalidFormat": "Formato de {attributeType} inválido.",
+    "@warnInvalidFormat": {
+        "placeholders": {
+            "attributeType": {
+                "type": "String",
+                "example": "password"
+            }
+        }
+    },
+    "usernameRequirements": "O nome de usuário deve conter apenas caracteres alfanuméricos e símbolos.",
+    "optional": "{fieldTitle} (opcional)",
+    "@optional": {
+        "placeholders": {
+            "fieldTitle": {
+                "type": "String",
+                "example": "Email"
+            }
+        }
+    },
+    "passwordRequirementsPreamble": "Sua senha deve incluir:",
+    "passwordRequirementsAtLeast": "pelo menos {numCharacters, plural, =1{1 caractere {characterType}} other{{numCharacters} caracteres {characterType}}}",
+    "@passwordRequirementsAtLeast": {
+        "placeholders": {
+            "numCharacters": {
+                "type": "int"
+            },
+            "characterType": {
+                "type": "String"
+            }
+        }
+    },
+    "passwordRequirementsCharacterType": "{characterType, select, requiresUppercase{maiúsculo} requiresLowercase{minúsculo} requiresNumbers{numérico} requiresSymbols{símbolo} other{}}",
+    "@passwordRequirementsCharacterType": {
+        "placeholders": {
+            "characterType": {
+                "type": "String"
+            }
+        }
+    },
+    "codeSent": "Um código de confirmação foi enviado para {destination}",
+    "@codeSent": {
+        "placeholders": {
+            "destination": {
+                "type": "String"
+            }
+        }
+    },
+    "codeSentUnknown": "Um código de confirmação foi enviado.",
+    "copySucceeded": "Copiado para a área de transferência!",
+    "copyFailed": "Falha ao copiar para a área de transferência.",
+    "confirmSignInCustomAuth": "Digite seu código de login",
+    "continueSignInWithMfaSelection": "Selecione seu método preferido de autenticação de dois fatores",
+    "continueSignInWithTotpSetup": "Ativar Autenticação de Dois Fatores",
+    "confirmSignInWithTotpMfaCode": "Digite sua senha de uso único"
+}

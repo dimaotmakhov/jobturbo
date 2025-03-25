@@ -1,0 +1,281 @@
+{
+    "@_SCREENSHOTS": {},
+  "trackYourApplications": "応募を追跡",
+  "monitorYourProgress": "進捗を監視",
+  "effectively": "効果的に",
+  "efficiently": "効率的に",
+  "jobSearchAppGetsYou": "あなたを理解する求人検索アプリ",
+  "hired": "採用",
+  "applyPositionsInDays": "7日間で100以上のポジションに応募",
+  "visualizeYourProgress": "進捗を視覚化",
+  "clearly": "明確に",
+    "appTitle": "ジョブターボ",
+    "welcomeTitle1": "世界中の仕事を検索",
+    "welcomeDesc1": "従業員を探している企業にアプローチ。クイックツアーをご覧ください。",
+    "welcomeTitle2": "リクエストタブ",
+    "welcomeDesc2": "動的な求人リクエストで、より多くのオファーを最初から獲得。選択した日に自動的にリクエストが繰り返されます。",
+    "welcomeTitle3": "応募タブ",
+    "welcomeDesc3": "募集開始直後のポジションをキャッチ。あなたの応募は採用担当者リストの上位に目立つように表示されます。",
+    "welcomeTitle4": "応募結果",
+    "welcomeDesc4": "提案と同時に求人をキャッチ。企業の意図を直接示す検索キーワードに基づいて、リクエストとマッチングします。",
+    "welcomeTitle5": "企業ウェブサイトへの直接リンク",
+    "welcomeDesc5": "市場調査や採用判断のための情報収集を積極的に行っている企業に直接アプローチ。第三者を介さずに興味のある企業にリクエストが表示されます。",
+    "welcomeTitle6": "サポートいたします",
+    "welcomeDesc6": "より多くのオファーを獲得し、より多くの求人に応募できるようサポートします。",
+    "skip": "スキップ",
+    "next": "次へ",
+    "done": "完了",
+    "navRequest": "リクエスト",
+    "navApply": "応募",
+    "navProgress": "進捗",
+
+    "@_JOB_LIST_SCREEN": {},
+    "noAppliedJobs": "応募済みの求人はまだありません",
+    "noPendingJobs": "保留中の求人はまだありません",
+    "noRejectedJobs": "不採用の求人はまだありません",
+    "noSuccessfulJobs": "採用された応募はまだありません",
+    "noJobs": "求人はまだありません",
+
+    "@_APPLY_SCREEN": {},
+    "jobApplications": "求人応募",
+    "toApply": "応募予定",
+    "applied": "応募済み",
+    "noJobListings": "求人が見つかりません",
+    "markAsNotApplied": "未応募としてマーク",
+"subscribeForUpdates": "求人の一部のみ表示しています。すべての求人を見るには、PROに登録してください",
+    "@_REQUEST_SCREEN": {},
+    "requests": "リクエスト",
+    "noRequests": "リクエストはまだありません。+をタップして追加してください。",
+    "addNewRequest": "新規リクエストを追加",
+    "selectCountry": "国を選択",
+    "country": "国",
+    "pleaseSelectCountry": "国を選択してください",
+    "location": "場所",
+    "enterLocation": "場所を入力",
+    "pleaseEnterLocation": "場所を入力してください",
+    "position": "職位",
+    "enterPosition": "職位を入力",
+    "pleaseEnterPosition": "職位を入力してください",
+    "keywords": "キーワード",
+    "enterKeywordsSeparated": "キーワードをカンマで区切って入力",
+    "newBadge": "新",
+    "cancel": "キャンセル",
+    "create": "作成",
+    "countryLabel": "国：{country}",
+    "locationLabel": "場所：{location}",
+    "keywordsLabel": "キーワード：{keywords}",
+
+    "@_PROGRESS_SCREEN": {},
+    "applicationProgress": "応募進捗",
+    "appliedJobs": "応募済みの求人",
+    "pendingJobs": "保留中の求人",
+    "rejectedJobs": "不採用の求人",
+    "successfulApplications": "採用された応募",
+    "appliedStatus": "応募済み",
+    "noAnswerStatus": "返信なし",
+    "rejectedStatus": "不採用",
+    "successfulStatus": "採用",
+
+    "@_JOB_DETAIL_SCREEN": {},
+    "skillsAndTechnologies": "スキルと技術",
+    "aboutTheCompany": "企業について",
+    "noCompanyDescription": "企業の説明がありません。",
+    "applyVia": "経由で応募",
+    "markAsApplied": "応募済みにマーク",
+    "applied": "応募済み",
+    "tryAgain": "再試行",
+    "goBack": "戻る",
+    "errorLoadingJobPosting": "求人情報を読み込めませんでした。後でもう一度お試しください。",
+    "errorRequestTimeout": "求人情報を読み込めませんでした。リクエストがタイムアウトしました。",
+
+    "@_PAYWALL_SCREEN": {},
+    "premium": "プレミアム",
+    "premiumSubtitle": "すべてのプレミアム機能にアクセス",
+    "featureAllJobListings": "すべての求人リスト",
+    "planWeek": "1週間",
+    "planYear": "1年",
+    "bestValue": "最高の価値",
+    "errorPurchaseNotAvailable": "アプリ内課金はこのデバイスでは利用できません。",
+    "errorWebPurchase": "アプリ内課金はウェブでは利用できません。モバイルアプリをご利用ください。",
+    "errorFailedToLoad": "サブスクリプションオプションの読み込みに失敗しました",
+    "errorPurchasePending": "現在の購入が完了するまでお待ちください",
+    "errorPurchaseFailed": "購入に失敗しました: {error}",
+    "@errorPurchaseFailed": {
+        "placeholders": {
+            "error": {
+                "type": "Object"
+            }
+        }
+    },
+    "useMobileApp": "購入するにはモバイルアプリをご利用ください。",
+
+    "@_ACCOUNT_SETTINGS": {},
+    "deleteAccount": "アカウントを削除",
+    "deleteAccountConfirmation": "アカウントを削除してもよろしいですか？この操作は元に戻せません。",
+    "delete": "削除",
+    "cancel": "キャンセル",
+
+    "@_AUTHENTICATION": {},
+    "hello": "こんにちは、{firstName}さん！",
+    "@hello": {
+        "placeholders": {
+            "firstName": {
+                "type": "String",
+                "example": "Bob"
+            }
+        }
+    },
+    "signIn": "ログイン",
+    "signUp": "アカウント作成",
+    "confirm": "確認",
+    "continueLabel": "続ける",
+    "submit": "送信",
+    "changePassword": "パスワード変更",
+    "sendCode": "コードを送信",
+    "lostCode": "コードを紛失しましたか？",
+    "verify": "確認",
+    "signOut": "ログアウト",
+    "signInWith": "{provider}でログイン",
+    "@signInWith": {
+        "placeholders": {
+            "provider": {
+                "type": "String",
+                "example": "Google"
+            }
+        }
+    },
+    "noAccount": "アカウントをお持ちでないですか？",
+    "haveAccount": "すでにアカウントをお持ちですか？",
+    "forgotPassword": "パスワードをお忘れですか？",
+    "confirmResetPassword": "パスワードリセット",
+    "backTo": "{previousStep}に戻る",
+    "@backTo": {
+        "placeholders": {
+            "previousStep": {
+                "type": "String",
+                "example": "ログイン"
+            }
+        }
+    },
+    "skip": "スキップ",
+    "copyKey": "キーをコピー",
+    "confirmSignUp": "サインアップ確認",
+    "confirmSignInMfa": "ログイン確認",
+    "confirmSignInNewPassword": "ログイン確認",
+    "resetPassword": "パスワードリセット",
+    "verifyUser": "ユーザー確認",
+    "confirmVerifyUser": "ユーザー確認の承認",
+    "username": "ユーザー名",
+    "password": "パスワード",
+    "confirmAttribute": "{attribute}を確認",
+    "@confirmAttribute": {
+        "placeholders": {
+        "attribute": {
+            "type": "String",
+            "example": "パスワード"
+        }
+        }
+    },
+    "passwordsDoNotMatch": "パスワードが一致しません",
+    "newPassword": "新しいパスワード",
+    "passwordConfirmation": "パスワード確認",
+    "verificationCode": "確認コード",
+    "customChallenge": "確認コード",
+    "address": "住所",
+    "birthdate": "生年月日",
+    "email": "メールアドレス",
+    "familyName": "姓",
+    "gender": "性別",
+    "givenName": "名",
+    "middleName": "ミドルネーム",
+    "name": "名前",
+    "nickname": "ニックネーム",
+    "phoneNumber": "電話番号",
+    "preferredUsername": "希望するユーザー名",
+    "rememberDevice": "このデバイスを記憶しますか？",
+    "selectSms": "SMS（テキストメッセージ）",
+    "selectTotp": "認証アプリ（TOTP）",
+    "totpCodePrompt": "登録済みの認証アプリからコードを入力してください",
+    "usernameType": "ログイン方法：",
+    "promptFill": "{attribute}を入力してください",
+    "@promptFill": {
+        "placeholders": {
+            "attribute": {
+                "type": "String",
+                "example": "メールアドレス"
+            }
+        }
+    },
+    "promptRefill": "{attribute}を再入力してください",
+    "@promptRefill": {
+        "placeholders": {
+            "attribute": {
+                "type": "String",
+                "example": "パスワード"
+            }
+        }
+    },
+    "warnEmpty": "{attribute}は空にできません。",
+    "@warnEmpty": {
+        "placeholders": {
+            "attribute": {
+                "type": "String",
+                "example": "パスワード"
+            }
+        }
+    },
+    "warnInvalidFormat": "{attributeType}の形式が無効です。",
+    "@warnInvalidFormat": {
+        "placeholders": {
+            "attributeType": {
+                "type": "String",
+                "example": "パスワード"
+            }
+        }
+    },
+    "usernameRequirements": "ユーザー名は英数字と記号のみ使用できます。",
+    "optional": "{fieldTitle}（任意）",
+    "@optional": {
+        "placeholders": {
+            "fieldTitle": {
+                "type": "String",
+                "example": "メールアドレス"
+            }
+        }
+    },
+    "passwordRequirementsPreamble": "パスワードには以下が必要です：",
+    "passwordRequirementsAtLeast": "少なくとも{numCharacters}個の{characterType}",
+    "@passwordRequirementsAtLeast": {
+        "placeholders": {
+            "numCharacters": {
+                "type": "int"
+            },
+            "characterType": {
+                "type": "String"
+            }
+        }
+    },
+    "passwordRequirementsCharacterType": "{characterType, select, requiresUppercase{大文字} requiresLowercase{小文字} requiresNumbers{数字} requiresSymbols{記号} other{}}",
+    "@passwordRequirementsCharacterType": {
+        "placeholders": {
+            "characterType": {
+                "type": "String"
+            }
+        }
+    },
+    "codeSent": "確認コードを{destination}に送信しました",
+    "@codeSent": {
+        "placeholders": {
+            "destination": {
+                "type": "String"
+            }
+        }
+    },
+    "codeSentUnknown": "確認コードを送信しました。",
+    "copySucceeded": "クリップボードにコピーしました！",
+    "copyFailed": "クリップボードへのコピーに失敗しました。",
+    "confirmSignInCustomAuth": "ログインコードを入力してください",
+    "continueSignInWithMfaSelection": "二要素認証の方法を選択してください",
+    "continueSignInWithTotpSetup": "二要素認証を有効にする",
+    "confirmSignInWithTotpMfaCode": "ワンタイムパスコードを入力してください"
+}

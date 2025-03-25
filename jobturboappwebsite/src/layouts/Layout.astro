@@ -1,0 +1,91 @@
+---
+interface Props {
+	title: string;
+}
+
+const { title } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="description" content="Job Turbo - The Job Search App That Gets You Hired" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="apple-itunes-app" content="app-id=6737511223" />
+		<link rel="icon" type="image/png" sizes="29x29" href="/iPad_Settings_29_1x.png" />
+		<link rel="icon" type="image/png" sizes="20x20" href="/iPad_Notifications_20_1x.png" />
+		<link rel="apple-touch-icon" sizes="180x180" href="/iPhone_App_60_3x.png" />
+		<link rel="icon" type="image/png" sizes="1024x1024" href="/App_store_1024_1x.png" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{title}</title>
+		<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+	</head>
+	<body class="bg-white">
+		<header class="fixed w-full bg-white/80 backdrop-blur-sm z-50 border-b border-gray-100">
+			<nav class="container mx-auto px-4 py-4">
+				<div class="flex justify-between items-center">
+					<a href="/">
+						<img src="/App_store_1024_1x.png" alt="Job Turbo Logo" class="h-8 rounded">
+					</a>
+					<div class="space-x-8">
+						<a href="/" class="text-gray-600 hover:text-blue-600 transition-colors">Home</a>
+						<a href="/support" class="text-gray-600 hover:text-blue-600 transition-colors">Support</a>
+						<a href="/privacy" class="text-gray-600 hover:text-blue-600 transition-colors">Privacy</a>
+					</div>
+				</div>
+			</nav>
+		</header>
+
+		<main class="pt-20">
+			<slot />
+		</main>
+
+		<footer class="bg-gray-50 mt-20">
+			<div class="container mx-auto px-4 py-12">
+				<div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+					<div>
+						<h3 class="text-xl font-bold text-blue-600 mb-4">
+							<img src="/App_store_1024_1x.png" alt="Job Turbo Logo" class="h-8 rounded">
+						</h3>
+						<p class="text-gray-600">The Job Search App That Gets You Hired</p>
+					</div>
+					<div>
+						<h4 class="font-semibold mb-4">Links</h4>
+						<ul class="space-y-2">
+							<li><a href="/support" class="text-gray-600 hover:text-blue-600 transition-colors">Support</a></li>
+							<li><a href="/privacy" class="text-gray-600 hover:text-blue-600 transition-colors">Privacy Policy</a></li>
+						</ul>
+					</div>
+					<div>
+						<h4 class="font-semibold mb-4">Download</h4>
+						<div class="space-y-2">
+							<a href="https://apps.apple.com/app/jobturbo/id6737511223" class="inline-block">
+								<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" class="h-10">
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="mt-8 pt-8 border-t border-gray-200 text-center text-gray-600">
+					<p>&copy; {new Date().getFullYear()} Job Turbo. All rights reserved.</p>
+				</div>
+			</div>
+		</footer>
+
+		<style is:global>
+			html {
+				font-family: 'Inter', system-ui, sans-serif;
+				scroll-behavior: smooth;
+			}
+			
+			@keyframes fadeIn {
+				from { opacity: 0; transform: translateY(20px); }
+				to { opacity: 1; transform: translateY(0); }
+			}
+			
+			.animate-fade-in {
+				animation: fadeIn 0.6s ease-out forwards;
+			}
+		</style>
+	</body>
+</html>

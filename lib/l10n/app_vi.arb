@@ -1,0 +1,298 @@
+{
+    "@_SCREENSHOTS": {},
+  "trackYourApplications": "Theo Dõi Đơn Ứng Tuyển",
+  "monitorYourProgress": "Giám Sát Tiến Trình",
+  "effectively": "Hiệu Quả",
+  "efficiently": "Hiệu Suất",
+  "jobSearchAppGetsYou": "Ứng Dụng Tìm Việc Hiểu Bạn",
+  "hired": "Được Tuyển Dụng",
+  "applyPositionsInDays": "Ứng Tuyển 100+ Vị Trí Trong 7 Ngày",
+  "visualizeYourProgress": "Trực Quan Hóa Tiến Trình",
+  "clearly": "Rõ Ràng",
+    "appTitle": "Job Turbo",
+    "welcomeTitle1": "Tìm kiếm việc làm trên toàn cầu",
+    "welcomeDesc1": "Tiếp cận các công ty đang tìm kiếm nhân viên. Đây là hướng dẫn nhanh.",
+    "welcomeTitle2": "Tab Yêu cầu",
+    "welcomeDesc2": "Nhận nhiều đề xuất hơn ngay từ đầu với Yêu cầu Việc làm động. Yêu cầu của bạn sẽ được lặp lại vào những ngày đã chọn.",
+    "welcomeTitle3": "Tab Ứng tuyển",
+    "welcomeDesc3": "Nắm bắt vị trí ngay khi họ bắt đầu đăng tuyển. Hồ sơ ứng tuyển của bạn sẽ xuất hiện nổi bật ở đầu danh sách nhà tuyển dụng.",
+    "welcomeTitle4": "Kết quả ứng tuyển",
+    "welcomeDesc4": "Tiếp cận yêu cầu ngay khi họ tìm kiếm với đề xuất. Chúng tôi sẽ kết nối yêu cầu của bạn với các công ty dựa trên tín hiệu trực tiếp về ý định của họ - từ khóa tìm kiếm.",
+    "welcomeTitle5": "Liên kết trực tiếp đến trang web công ty",
+    "welcomeDesc5": "Tiếp cận doanh nghiệp trực tiếp khi họ đang tích cực nghiên cứu thị trường và thu thập thông tin để quyết định tuyển dụng. Yêu cầu của bạn sẽ xuất hiện với công ty quan tâm mà không qua trung gian.",
+    "welcomeTitle6": "Chúng tôi ở đây để giúp đỡ",
+    "welcomeDesc6": "Chúng tôi sẽ giúp bạn nhận được nhiều đề xuất hơn và ứng tuyển nhiều việc làm hơn.",
+    "skip": "BỎ QUA",
+    "next": "TIẾP",
+    "done": "XONG",
+    "navRequest": "Yêu cầu",
+    "navApply": "Ứng tuyển",
+    "navProgress": "Tiến độ",
+    "@_JOB_LIST_SCREEN": {},
+"noAppliedJobs": "Chưa có việc đã ứng tuyển nào",
+"noPendingJobs": "Chưa có việc đang chờ xử lý nào",
+"noRejectedJobs": "Chưa có việc bị từ chối nào",
+"noSuccessfulJobs": "Chưa có ứng tuyển thành công nào",
+"noJobs": "Chưa tìm thấy việc làm nào",
+"@_APPLY_SCREEN": {},
+"jobApplications": "Ứng tuyển việc làm",
+"toApply": "Để ứng tuyển",
+"applied": "Đã ứng tuyển",
+"noJobListings": "Không tìm thấy thông tin việc làm",
+"markAsNotApplied": "Đánh dấu là chưa ứng tuyển",
+"subscribeForUpdates": "Chỉ hiển thị một phần việc làm. Để xem tất cả các việc làm, hãy đăng ký PRO",
+"@_REQUEST_SCREEN": {},
+"requests": "Yêu cầu",
+"noRequests": "Chưa có yêu cầu nào. Nhấn + để thêm mới.",
+"addNewRequest": "Thêm yêu cầu mới",
+"selectCountry": "Chọn quốc gia",
+"country": "Quốc gia",
+"pleaseSelectCountry": "Vui lòng chọn quốc gia",
+"location": "Địa điểm",
+"enterLocation": "Nhập địa điểm",
+"pleaseEnterLocation": "Vui lòng nhập địa điểm",
+"position": "Chức vụ",
+"enterPosition": "Nhập chức vụ",
+"pleaseEnterPosition": "Vui lòng nhập chức vụ",
+"keywords": "Từ khóa",
+"enterKeywordsSeparated": "Nhập các từ khóa cách nhau bằng dấu phẩy",
+    "newBadge": "mới",
+"cancel": "Hủy",
+"create": "Tạo",
+"countryLabel": "Quốc gia: {country}",
+"@countryLabel": {
+"placeholders": {
+"country": {
+                "type": "Object"
+}
+}
+},
+"locationLabel": "Địa điểm: {location}",
+"@locationLabel": {
+"placeholders": {
+"location": {
+                "type": "Object"
+}
+}
+},
+"keywordsLabel": "Từ khóa: {keywords}",
+"@keywordsLabel": {
+"placeholders": {
+"keywords": {
+                "type": "Object"
+}
+}
+},
+"@_PROGRESS_SCREEN": {},
+"applicationProgress": "Tiến trình ứng tuyển",
+"appliedJobs": "Việc đã ứng tuyển",
+"pendingJobs": "Việc đang chờ xử lý",
+"rejectedJobs": "Việc bị từ chối",
+"successfulApplications": "Ứng tuyển thành công",
+"appliedStatus": "Đã ứng tuyển",
+"noAnswerStatus": "Chưa trả lời",
+"rejectedStatus": "Bị từ chối",
+"successfulStatus": "Thành công",
+    "@_JOB_DETAIL_SCREEN": {},
+    "skillsAndTechnologies": "Kỹ Năng và Công Nghệ",
+    "aboutTheCompany": "Về Công Ty",
+    "noCompanyDescription": "Không có mô tả về công ty.",
+    "applyVia": "Ứng tuyển qua",
+    "markAsApplied": "Đánh Dấu Là Đã Ứng Tuyển",
+    "applied": "Đã Ứng Tuyển",
+    "tryAgain": "Thử Lại",
+    "goBack": "Quay Lại",
+    "errorLoadingJobPosting": "Không thể tải thông tin tuyển dụng. Vui lòng thử lại sau.",
+    "errorRequestTimeout": "Không thể tải thông tin tuyển dụng. Yêu cầu đã hết thời gian chờ.",
+
+    "@_PAYWALL_SCREEN": {},
+    "premium": "Cao Cấp",
+    "premiumSubtitle": "Truy cập tất cả các tính năng cao cấp",
+    "featureAllJobListings": "Tất cả danh sách việc làm",
+    "planWeek": "1 Tuần",
+    "planYear": "1 Năm",
+    "bestValue": "Giá Trị Tốt Nhất",
+    "errorPurchaseNotAvailable": "Mua trong ứng dụng không khả dụng trên thiết bị này.",
+    "errorWebPurchase": "Mua trong ứng dụng không khả dụng trên web. Vui lòng sử dụng ứng dụng di động của chúng tôi.",
+    "errorFailedToLoad": "Không tải được các tùy chọn đăng ký",
+    "errorPurchasePending": "Vui lòng chờ giao dịch mua hiện tại hoàn tất",
+    "errorPurchaseFailed": "Mua hàng thất bại: {error}",
+    "@errorPurchaseFailed": {
+        "placeholders": {
+            "error": {
+                "type": "Object"
+            }
+        }
+    },
+    "useMobileApp": "Vui lòng sử dụng ứng dụng di động của chúng tôi để mua.",
+
+    "@_ACCOUNT_SETTINGS": {},
+    "deleteAccount": "Xóa tài khoản",
+    "deleteAccountConfirmation": "Bạn có chắc chắn muốn xóa tài khoản của mình không? Thao tác này không thể hoàn tác.",
+    "delete": "Xóa",
+    "cancel": "Hủy",
+
+    "@_AUTHENTICATION": {},
+    "hello": "Xin chào {firstName}!",
+    "@hello": {
+        "placeholders": {
+            "firstName": {
+                "type": "String",
+                "example": "Bob"
+            }
+        }
+    },
+    "signIn": "Đăng nhập",
+    "signUp": "Tạo tài khoản",
+    "confirm": "Xác nhận",
+    "continueLabel": "Tiếp tục",
+    "submit": "Gửi",
+    "changePassword": "Đổi mật khẩu",
+    "sendCode": "Gửi mã",
+    "lostCode": "Mất mã?",
+    "verify": "Xác minh",
+    "signOut": "Đăng xuất",
+    "signInWith": "Đăng nhập bằng {provider}",
+    "@signInWith": {
+        "placeholders": {
+            "provider": {
+                "type": "String",
+                "example": "Google"
+            }
+        }
+    },
+    "noAccount": "Chưa có tài khoản?",
+    "haveAccount": "Đã có tài khoản?",
+    "forgotPassword": "Quên mật khẩu?",
+    "confirmResetPassword": "Đặt lại mật khẩu",
+    "backTo": "Quay lại {previousStep}",
+    "@backTo": {
+        "placeholders": {
+            "previousStep": {
+                "type": "String",
+                "example": "Đăng nhập"
+            }
+        }
+    },
+    "skip": "Bỏ qua",
+    "copyKey": "Sao chép khóa",
+    "confirmSignUp": "Xác nhận đăng ký",
+    "confirmSignInMfa": "Xác nhận đăng nhập",
+    "confirmSignInNewPassword": "Xác nhận đăng nhập",
+    "resetPassword": "Đặt lại mật khẩu",
+    "verifyUser": "Xác minh người dùng",
+    "confirmVerifyUser": "Xác nhận xác minh người dùng",
+    "username": "Tên đăng nhập",
+    "password": "Mật khẩu",
+    "confirmAttribute": "Xác nhận {attribute}",
+    "@confirmAttribute": {
+        "placeholders": {
+        "attribute": {
+            "type": "String",
+            "example": "Mật khẩu"
+        }
+        }
+    },
+    "passwordsDoNotMatch": "Mật khẩu không khớp",
+    "newPassword": "Mật khẩu mới",
+    "passwordConfirmation": "Xác nhận mật khẩu",
+    "verificationCode": "Mã xác minh",
+    "customChallenge": "Mã xác nhận",
+    "address": "Địa chỉ",
+    "birthdate": "Ngày sinh",
+    "email": "Email",
+    "familyName": "Họ",
+    "gender": "Giới tính",
+    "givenName": "Tên",
+    "middleName": "Tên đệm",
+    "name": "Tên",
+    "nickname": "Biệt danh",
+    "phoneNumber": "Số điện thoại",
+    "preferredUsername": "Tên đăng nhập ưa thích",
+    "rememberDevice": "Ghi nhớ thiết bị?",
+    "selectSms": "Tin nhắn văn bản (SMS)",
+    "selectTotp": "Ứng dụng xác thực (TOTP)",
+    "totpCodePrompt": "Vui lòng nhập mã từ ứng dụng xác thực đã đăng ký của bạn",
+    "usernameType": "Đăng nhập bằng:",
+    "promptFill": "Nhập {attribute} của bạn",
+    "@promptFill": {
+        "placeholders": {
+            "attribute": {
+                "type": "String",
+                "example": "Email"
+            }
+        }
+    },
+    "promptRefill": "Nhập lại {attribute} của bạn",
+    "@promptRefill": {
+        "placeholders": {
+            "attribute": {
+                "type": "String",
+                "example": "Password"
+            }
+        }
+    },
+    "warnEmpty": "Trường {attribute} không được để trống.",
+    "@warnEmpty": {
+        "placeholders": {
+            "attribute": {
+                "type": "String",
+                "example": "Password"
+            }
+        }
+    },
+    "warnInvalidFormat": "Định dạng {attributeType} không hợp lệ.",
+    "@warnInvalidFormat": {
+        "placeholders": {
+            "attributeType": {
+                "type": "String",
+                "example": "password"
+            }
+        }
+    },
+    "usernameRequirements": "Tên đăng nhập chỉ được chứa ký tự chữ số và ký hiệu.",
+    "optional": "{fieldTitle} (tùy chọn)",
+    "@optional": {
+        "placeholders": {
+            "fieldTitle": {
+                "type": "String",
+                "example": "Email"
+            }
+        }
+    },
+    "passwordRequirementsPreamble": "Mật khẩu của bạn phải bao gồm:",
+    "passwordRequirementsAtLeast": "ít nhất {numCharacters, plural, =1{1 ký tự {characterType}} other{{numCharacters} ký tự {characterType}}}",
+    "@passwordRequirementsAtLeast": {
+        "placeholders": {
+            "numCharacters": {
+                "type": "int"
+            },
+            "characterType": {
+                "type": "String"
+            }
+        }
+    },
+    "passwordRequirementsCharacterType": "{characterType, select, requiresUppercase{in hoa} requiresLowercase{in thường} requiresNumbers{số} requiresSymbols{ký hiệu} other{}}",
+    "@passwordRequirementsCharacterType": {
+        "placeholders": {
+            "characterType": {
+                "type": "String"
+            }
+        }
+    },
+    "codeSent": "Mã xác nhận đã được gửi đến {destination}",
+    "@codeSent": {
+        "placeholders": {
+            "destination": {
+                "type": "String"
+            }
+        }
+    },
+    "codeSentUnknown": "Mã xác nhận đã được gửi.",
+    "copySucceeded": "Đã sao chép vào bộ nhớ tạm!",
+    "copyFailed": "Không thể sao chép vào bộ nhớ tạm.",
+    "confirmSignInCustomAuth": "Nhập mã đăng nhập của bạn",
+    "continueSignInWithMfaSelection": "Chọn phương thức xác thực hai yếu tố ưa thích của bạn",
+    "continueSignInWithTotpSetup": "Kích hoạt xác thực hai yếu tố",
+    "confirmSignInWithTotpMfaCode": "Nhập mã một lần của bạn"
+}

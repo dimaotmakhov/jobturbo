@@ -1,0 +1,60 @@
+name: jobturbo
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.25+25
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  amplify_api: ^2.0.0
+  amplify_flutter: ^2.0.0
+  amplify_auth_cognito: ^2.0.0
+  amplify_authenticator: ^2.0.0
+  amplify_push_notifications_pinpoint: ^2.0.0
+  smooth_page_indicator: ^1.1.0
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: any
+  flutter_riverpod: ^2.4.9
+  riverpod_annotation: ^2.3.3
+  cached_network_image: ^3.3.1
+  fl_chart: ^0.66.2
+  cupertino_icons: ^1.0.8
+  purchases_flutter: ^8.3.0
+  purchases_ui_flutter: ^8.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  golden_toolkit: ^0.15.0
+  build_runner: ^2.4.8
+  riverpod_generator: ^2.3.9
+  path: ^1.8.0
+
+flutter:
+  uses-material-design: true
+  generate: true
+  
+  fonts:
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/Inter_18pt-Regular.ttf
+    - family: NotoSansCJK
+      fonts:
+        - asset: assets/fonts/noto/Noto-Sans-CJK-Regular.otf
+  assets:
+    - assets/images/welcome/de/
+    - assets/images/welcome/en/
+    - assets/images/welcome/es/
+    - assets/images/welcome/fr/
+    - assets/images/welcome/it/
+    - assets/images/welcome/ja/
+    - assets/images/welcome/ko/
+    - assets/images/welcome/pt/
+    - assets/images/welcome/vi/
+    - assets/images/welcome/zh/

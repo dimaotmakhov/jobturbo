@@ -1,0 +1,299 @@
+{
+    "@_SCREENSHOTS": {},
+  "trackYourApplications": "追踪您的申请",
+  "monitorYourProgress": "监控您的进度",
+  "effectively": "有效地",
+  "efficiently": "高效地",
+  "jobSearchAppGetsYou": "了解您的求职应用程序",
+  "hired": "已录用",
+  "applyPositionsInDays": "7天内申请100多个职位",
+  "visualizeYourProgress": "清晰地可视化您的进度",
+  "clearly": "清晰",
+    "appTitle": "求职加速器",
+    "welcomeTitle1": "在全球范围内搜索工作",
+    "welcomeDesc1": "接触正在寻找员工的公司。这里是快速导览。",
+    "welcomeTitle2": "申请标签",
+    "welcomeDesc2": "通过动态职位申请从一开始就获得更多机会。您的申请将在选定的日期重复发送。",
+    "welcomeTitle3": "应聘标签",
+    "welcomeDesc3": "在职位刚开始发布时就把握机会。您的应聘将显著地出现在招聘者名单的顶部。",
+    "welcomeTitle4": "应聘结果",
+    "welcomeDesc4": "在公司搜索时立即提供建议。我们将根据公司意向的直接信号——他们的搜索词——为您匹配申请。",
+    "welcomeTitle5": "直接链接到公司网站",
+    "welcomeDesc5": "在企业积极研究市场和收集信息以帮助他们决定是否招聘时直接接触他们。您的申请将直接展示给感兴趣的公司，无需第三方。",
+    "welcomeTitle6": "我们随时为您服务",
+    "welcomeDesc6": "我们将帮助您获得更多机会并申请更多职位。",
+    "skip": "跳过",
+    "next": "下一步",
+    "done": "完成",
+    "navRequest": "请求",
+    "navApply": "申请",
+    "navProgress": "进度",
+    "@_JOB_LIST_SCREEN": {},
+"noAppliedJobs": "还没有申请过的工作",
+"noPendingJobs": "还没有待处理的工作",
+"noRejectedJobs": "还没有被拒绝的工作",
+"noSuccessfulJobs": "还没有成功的申请",
+"noJobs": "没有找到任何工作",
+"@_APPLY_SCREEN": {},
+"jobApplications": "工作申请",
+"toApply": "申请",
+"applied": "已申请",
+"noJobListings": "找不到任何工作列表",
+"markAsNotApplied": "标记为未申请",
+"subscribeForUpdates": "仅显示部分职位。要查看所有职位，请订阅专业版",
+"@_REQUEST_SCREEN": {},
+"requests": "请求",
+"noRequests": "还没有任何请求。点击 + 添加新的。",
+"addNewRequest": "添加新请求",
+"selectCountry": "选择国家",
+"country": "国家",
+"pleaseSelectCountry": "请选择国家",
+"location": "位置",
+"enterLocation": "输入位置",
+"pleaseEnterLocation": "请输入位置",
+"position": "职位",
+"enterPosition": "输入职位",
+"pleaseEnterPosition": "请输入职位",
+"keywords": "关键词",
+"enterKeywordsSeparated": "输入以逗号分隔的关键词",
+    "newBadge": "新",
+"cancel": "取消",
+"create": "创建",
+"countryLabel": "国家: {country}",
+"@countryLabel": {
+"placeholders": {
+"country": {
+                "type": "Object"
+}
+}
+},
+"locationLabel": "位置: {location}",
+"@locationLabel": {
+"placeholders": {
+"location": {
+                "type": "Object"
+}
+}
+},
+"keywordsLabel": "关键词: {keywords}",
+"@keywordsLabel": {
+"placeholders": {
+"keywords": {
+                "type": "Object"
+}
+}
+},
+"@_PROGRESS_SCREEN": {},
+"applicationProgress": "申请进度",
+"appliedJobs": "已申请的工作",
+"pendingJobs": "待处理的工作",
+"rejectedJobs": "被拒绝的工作",
+"successfulApplications": "成功的申请",
+"appliedStatus": "已申请",
+"noAnswerStatus": "未回复",
+"rejectedStatus": "被拒绝",
+"successfulStatus": "成功",
+
+    "@_JOB_DETAIL_SCREEN": {},
+    "skillsAndTechnologies": "技能和技术",
+    "aboutTheCompany": "关于公司",
+    "noCompanyDescription": "无公司描述。",
+    "applyVia": "通过申请",
+    "markAsApplied": "标记为已申请",
+    "applied": "已申请",
+    "tryAgain": "重试",
+    "goBack": "返回",
+    "errorLoadingJobPosting": "无法加载职位信息。请稍后重试。",
+    "errorRequestTimeout": "无法加载职位信息。请求超时。",
+    
+    "@_PAYWALL_SCREEN": {},
+    "premium": "高级版",
+    "premiumSubtitle": "获取所有高级功能",
+    "featureAllJobListings": "所有职位列表",
+    "planWeek": "1 周",
+    "planYear": "1 年",
+    "bestValue": "最佳价值",
+    "errorPurchaseNotAvailable": "此设备不支持应用内购买。",
+    "errorWebPurchase": "网页版不支持应用内购买。请使用我们的移动应用。",
+    "errorFailedToLoad": "无法加载订阅选项",
+    "errorPurchasePending": "请等待当前购买完成",
+    "errorPurchaseFailed": "购买失败：{error}",
+    "@errorPurchaseFailed": {
+        "placeholders": {
+            "error": {
+                "type": "Object"
+            }
+        }
+    },
+    "useMobileApp": "请使用我们的移动应用进行购买。",
+
+    "@_ACCOUNT_SETTINGS": {},
+    "deleteAccount": "删除账户",
+    "deleteAccountConfirmation": "您确定要删除您的账户吗？此操作无法撤销。",
+    "delete": "删除",
+    "cancel": "取消",
+
+    "@_AUTHENTICATION": {},
+    "hello": "你好 {firstName}！",
+    "@hello": {
+        "placeholders": {
+            "firstName": {
+                "type": "String",
+                "example": "Bob"
+            }
+        }
+    },
+    "signIn": "登录",
+    "signUp": "注册账号",
+    "confirm": "确认",
+    "continueLabel": "继续",
+    "submit": "提交",
+    "changePassword": "修改密码",
+    "sendCode": "发送验证码",
+    "lostCode": "丢失验证码？",
+    "verify": "验证",
+    "signOut": "退出登录",
+    "signInWith": "使用{provider}登录",
+    "@signInWith": {
+        "placeholders": {
+            "provider": {
+                "type": "String",
+                "example": "Google"
+            }
+        }
+    },
+    "noAccount": "没有账号？",
+    "haveAccount": "已有账号？",
+    "forgotPassword": "忘记密码？",
+    "confirmResetPassword": "重置密码",
+    "backTo": "返回{previousStep}",
+    "@backTo": {
+        "placeholders": {
+            "previousStep": {
+                "type": "String",
+                "example": "登录"
+            }
+        }
+    },
+    "skip": "跳过",
+    "copyKey": "复制密钥",
+    "confirmSignUp": "确认注册",
+    "confirmSignInMfa": "确认登录",
+    "confirmSignInNewPassword": "确认登录",
+    "resetPassword": "重置密码",
+    "verifyUser": "验证用户",
+    "confirmVerifyUser": "确认验证用户",
+    "username": "用户名",
+    "password": "密码",
+    "confirmAttribute": "确认{attribute}",
+    "@confirmAttribute": {
+        "placeholders": {
+        "attribute": {
+            "type": "String",
+            "example": "密码"
+        }
+        }
+    },
+    "passwordsDoNotMatch": "密码不匹配",
+    "newPassword": "新密码",
+    "passwordConfirmation": "确认密码",
+    "verificationCode": "验证码",
+    "customChallenge": "确认码",
+    "address": "地址",
+    "birthdate": "出生日期",
+    "email": "电子邮箱",
+    "familyName": "姓",
+    "gender": "性别",
+    "givenName": "名",
+    "middleName": "中间名",
+    "name": "姓名",
+    "nickname": "昵称",
+    "phoneNumber": "电话号码",
+    "preferredUsername": "首选用户名",
+    "rememberDevice": "记住设备？",
+    "selectSms": "短信验证（SMS）",
+    "selectTotp": "验证器应用（TOTP）",
+    "totpCodePrompt": "请输入已注册验证器应用中的验证码",
+    "usernameType": "登录使用：",
+    "promptFill": "请输入{attribute}",
+    "@promptFill": {
+        "placeholders": {
+            "attribute": {
+                "type": "String",
+                "example": "电子邮箱"
+            }
+        }
+    },
+    "promptRefill": "请再次输入{attribute}",
+    "@promptRefill": {
+        "placeholders": {
+            "attribute": {
+                "type": "String",
+                "example": "密码"
+            }
+        }
+    },
+    "warnEmpty": "{attribute}不能为空。",
+    "@warnEmpty": {
+        "placeholders": {
+            "attribute": {
+                "type": "String",
+                "example": "密码"
+            }
+        }
+    },
+    "warnInvalidFormat": "{attributeType}格式无效。",
+    "@warnInvalidFormat": {
+        "placeholders": {
+            "attributeType": {
+                "type": "String",
+                "example": "密码"
+            }
+        }
+    },
+    "usernameRequirements": "用户名只能包含字母、数字和符号。",
+    "optional": "{fieldTitle}（可选）",
+    "@optional": {
+        "placeholders": {
+            "fieldTitle": {
+                "type": "String",
+                "example": "电子邮箱"
+            }
+        }
+    },
+    "passwordRequirementsPreamble": "您的密码必须包含：",
+    "passwordRequirementsAtLeast": "至少{numCharacters}个{characterType}",
+    "@passwordRequirementsAtLeast": {
+        "placeholders": {
+            "numCharacters": {
+                "type": "int"
+            },
+            "characterType": {
+                "type": "String"
+            }
+        }
+    },
+    "passwordRequirementsCharacterType": "{characterType, select, requiresUppercase{大写字母} requiresLowercase{小写字母} requiresNumbers{数字} requiresSymbols{符号} other{}}",
+    "@passwordRequirementsCharacterType": {
+        "placeholders": {
+            "characterType": {
+                "type": "String"
+            }
+        }
+    },
+    "codeSent": "确认码已发送至{destination}",
+    "@codeSent": {
+        "placeholders": {
+            "destination": {
+                "type": "String"
+            }
+        }
+    },
+    "codeSentUnknown": "确认码已发送。",
+    "copySucceeded": "已复制到剪贴板！",
+    "copyFailed": "复制到剪贴板失败。",
+    "confirmSignInCustomAuth": "请输入您的登录验证码",
+    "continueSignInWithMfaSelection": "请选择您偏好的双重认证方式",
+    "continueSignInWithTotpSetup": "启用双重认证",
+    "confirmSignInWithTotpMfaCode": "请输入您的一次性密码"
+}

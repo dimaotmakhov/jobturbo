@@ -1,0 +1,298 @@
+{
+    "@_SCREENSHOTS": {},
+    "trackYourApplications": "Track Your Applications",
+    "monitorYourProgress": "Monitor Your Progress",
+    "effectively": "Effectively",
+    "efficiently": "Efficiently",
+    "jobSearchAppGetsYou": "The Job Search App That Gets You",
+    "hired": "Hired",
+    "applyPositionsInDays": "Apply 100+ Positions in 7 Days",
+    "visualizeYourProgress": "Visualize Your Progress",
+    "clearly": "Clearly",
+
+    "appTitle": "Job Turbo",
+    "welcomeTitle1": "Search your job across the Globe",
+    "welcomeDesc1": "Reach companies looking for an employees. Here's a quick tour.",
+    "welcomeTitle2": "Request Tab",
+    "welcomeDesc2": "Get more offers from the start with a dynamic Job Requests. Your request will repeat on selected days.",
+    "welcomeTitle3": "Apply Tab",
+    "welcomeDesc3": "Capture positions right when they begin their publication. Your apply will appear prominently at the top of the recruiters list.",
+    "welcomeTitle4": "Apply results",
+    "welcomeDesc4": "Reach requests the moment they search with an proposal. We'll match your request with companies based on a direct signal of their intent - their search term.",
+    "welcomeTitle5": "Direct links to companies websites",
+    "welcomeDesc5": "Reach businesses directly when they actively researching market and getting information to help them decide wether to hire. Your request will appear to interested company without third-party.",
+    "welcomeTitle6": "We are here to help.",
+    "welcomeDesc6": "We'll help you to get more offers and apply for more jobs.",
+    "skip": "SKIP",
+    "next": "NEXT",
+    "done": "DONE",
+    "navRequest": "Request",
+    "navApply": "Apply",
+    "navProgress": "Progress",
+
+    "@_JOB_LIST_SCREEN": {},
+    "noAppliedJobs": "No applied jobs found yet",
+    "noPendingJobs": "No pending jobs found yet",
+    "noRejectedJobs": "No rejected jobs found yet",
+    "noSuccessfulJobs": "No successful applications found yet",
+    "noJobs": "No jobs found yet",
+
+    "@_APPLY_SCREEN": {},
+    "jobApplications": "Job Applications",
+    "toApply": "To Apply",
+    "applied": "Applied",
+    "noJobListings": "No job listings found",
+    "markAsNotApplied": "Mark as not applied",
+    "subscribeForUpdates": "Showing only part of the jobs. To see all jobs, subscribe to PRO",
+
+    "@_REQUEST_SCREEN": {},
+    "requests": "Requests",
+    "noRequests": "No requests yet. Tap + to add one.",
+    "addNewRequest": "Add New Request",
+    "selectCountry": "Select a country",
+    "country": "Country",
+    "pleaseSelectCountry": "Please select a country",
+    "location": "Location",
+    "enterLocation": "Enter location",
+    "pleaseEnterLocation": "Please enter location",
+    "position": "Position",
+    "enterPosition": "Enter position",
+    "pleaseEnterPosition": "Please enter position",
+    "keywords": "Keywords",
+    "enterKeywordsSeparated": "Enter keywords separated by commas",
+    "newBadge": "new",
+    "cancel": "Cancel",
+    "create": "Create",
+    "countryLabel": "Country: {country}",
+    "@countryLabel": {
+        "placeholders": {
+            "country": {}
+        }
+    },
+    "locationLabel": "Location: {location}",
+    "@locationLabel": {
+        "placeholders": {
+            "location": {}
+        }
+    },
+    "keywordsLabel": "Keywords: {keywords}",
+    "@keywordsLabel": {
+        "placeholders": {
+            "keywords": {}
+        }
+    },
+
+    "@_PROGRESS_SCREEN": {},
+    "applicationProgress": "Application Progress",
+    "appliedJobs": "Applied Jobs",
+    "pendingJobs": "Pending Jobs",
+    "rejectedJobs": "Rejected Jobs",
+    "successfulApplications": "Successful Applications",
+    "appliedStatus": "Applied",
+    "noAnswerStatus": "No Answer",
+    "rejectedStatus": "Rejected",
+    "successfulStatus": "Successful",
+
+    "@_JOB_DETAIL_SCREEN": {},
+    "skillsAndTechnologies": "Skills & Technologies",
+    "aboutTheCompany": "About the Company",
+    "noCompanyDescription": "No company description available.",
+    "applyVia": "Apply via",
+    "markAsApplied": "Mark as Applied",
+    "applied": "Applied",
+    "tryAgain": "Try Again",
+    "goBack": "Go Back",
+    "errorLoadingJobPosting": "Unable to load job posting. Please try again later.",
+    "errorRequestTimeout": "Unable to load job posting. The request timed out.",
+
+    "@_PAYWALL_SCREEN": {},
+    "premium": "Premium",
+    "premiumSubtitle": "Get access to all premium features",
+    "featureAllJobListings": "All job listings",
+    "planWeek": "1 Week",
+    "planYear": "1 Year",
+    "bestValue": "Best Value",
+    "errorPurchaseNotAvailable": "In-app purchases are not available on this device.",
+    "errorWebPurchase": "In-app purchases are not available on web. Please use our mobile app.",
+    "errorFailedToLoad": "Failed to load subscription options",
+    "errorPurchasePending": "Please wait for the current purchase to complete",
+    "errorPurchaseFailed": "Purchase failed: {error}",
+    "@errorPurchaseFailed": {
+        "placeholders": {
+            "error": {
+                "type": "Object"
+            }
+        }
+    },
+    "useMobileApp": "Please use our mobile app to purchase.",
+
+    "@_ACCOUNT_SETTINGS": {},
+    "deleteAccount": "Delete Account",
+    "deleteAccountConfirmation": "Are you sure you want to delete your account? This action cannot be undone.",
+    "delete": "Delete",
+    "cancel": "Cancel",
+
+    "@_AUTHENTICATION": {},
+    "hello": "Hello {firstName}!",
+    "@hello": {
+        "placeholders": {
+            "firstName": {
+                "type": "String",
+                "example": "Bob"
+            }
+        }
+    },
+    "signIn": "Sign In",
+    "signUp": "Create Account",
+    "confirm": "Confirm",
+    "continueLabel": "Continue",
+    "submit": "Submit",
+    "changePassword": "Change Password",
+    "sendCode": "Send Code",
+    "lostCode": "Lost your code?",
+    "verify": "",
+    "signOut": "",
+    "signInWith": "Sign In with {provider}",
+    "@signInWith": {
+        "placeholders": {
+            "provider": {
+                "type": "String",
+                "example": "Google"
+            }
+        }
+    },
+    "noAccount": "No account?",
+    "haveAccount": "Have an account?",
+    "forgotPassword": "Forgot your password?",
+    "confirmResetPassword": "Reset Password",
+    "backTo": "Back to {previousStep}",
+    "@backTo": {
+        "placeholders": {
+            "previousStep": {
+                "type": "String",
+                "example": "Sign In"
+            }
+        }
+    },
+    "skip": "Skip",
+    "copyKey": "Copy Key",
+    "confirmSignUp": "Confirm Sign-up",
+    "confirmSignInMfa": "Confirm Sign-in",
+    "confirmSignInNewPassword": "Confirm Sign-in",
+    "resetPassword": "Reset Password",
+    "verifyUser": "Verify User",
+    "confirmVerifyUser": "Confirm Verify User",
+    "username": "Username",
+    "password": "Password",
+    "confirmAttribute": "Confirm {attribute}",
+    "@confirmAttribute": {
+        "placeholders": {
+            "attribute": {
+                "type": "String",
+                "example": "Password"
+            }
+        }
+    },
+    "passwordsDoNotMatch": "Passwords do not match",
+    "newPassword": "New Password",
+    "passwordConfirmation": "Confirm Password",
+    "verificationCode": "Verification Code",
+    "customChallenge": "Confirmation Code",
+    "address": "Address",
+    "birthdate": "Birthdate",
+    "email": "Email",
+    "familyName": "Family Name",
+    "gender": "Gender",
+    "givenName": "Fist Name",
+    "middleName": "Middle Name",
+    "name": "Name",
+    "nickname": "Nickname",
+    "phoneNumber": "Phone Number",
+    "preferredUsername": "Preferred Username",
+    "rememberDevice": "Remember Device?",
+    "selectSms": "Text Message (SMS)",
+    "selectTotp": "Authenticator App (TOTP)",
+    "totpCodePrompt": "Please enter the code from your registered Authenticator app",
+    "usernameType": "Log in using:",
+    "promptFill": "Enter your {attribute}",
+    "@promptFill": {
+        "placeholders": {
+            "attribute": {
+                "type": "String",
+                "example": "Email"
+            }
+        }
+    },
+    "promptRefill": "Re-enter your {attribute}",
+    "@promptRefill": {
+        "placeholders": {
+            "attribute": {
+                "type": "String",
+                "example": "Password"
+            }
+        }
+    },
+    "warnEmpty": "{attribute} field must not be blank.",
+    "@warnEmpty": {
+        "placeholders": {
+            "attribute": {
+                "type": "String",
+                "example": "Password"
+            }
+        }
+    },
+    "warnInvalidFormat": "Invalid {attributeType} format.",
+    "@warnInvalidFormat": {
+        "placeholders": {
+            "attributeType": {
+                "type": "String",
+                "example": "password"
+            }
+        }
+    },
+    "usernameRequirements": "Username must only contain alphanumeric characters and symbols.",
+    "optional": "{fieldTitle} (optional)",
+    "@optional": {
+        "placeholders": {
+            "fieldTitle": {
+                "type": "String",
+                "example": "Email"
+            }
+        }
+    },
+    "passwordRequirementsPreamble": "Your password must include:",
+    "passwordRequirementsAtLeast": "at least {numCharacters, plural, =1{1{characterType} character} other{{numCharacters}{characterType} characters}}",
+    "@passwordRequirementsAtLeast": {
+        "placeholders": {
+            "numCharacters": {
+                "type": "int"
+            },
+            "characterType": {
+                "type": "String"
+            }
+        }
+    },
+    "passwordRequirementsCharacterType": "{characterType, select, requiresUppercase{uppercase} requiresLowercase{lowercase} requiresNumbers{number} requiresSymbols{symbol} other{}}",
+    "@passwordRequirementsCharacterType": {
+        "placeholders": {
+            "characterType": {
+                "type": "String"
+            }
+        }
+    },
+    "codeSent": "A confirmation code has been sent to {destination}",
+    "@codeSent": {
+        "placeholders": {
+            "destination": {
+                "type": "String"
+            }
+        }
+    },
+    "codeSentUnknown": "A confirmation code has been sent.",
+    "copySucceeded": "Copied to clipboard!",
+    "copyFailed": "Copy to clipboard failed.",
+    "confirmSignInCustomAuth": "Enter your sign in code'",
+    "continueSignInWithMfaSelection": "Select your preferred Two-Factor Auth method",
+    "continueSignInWithTotpSetup": "Enable Two-Factor Auth",
+    "confirmSignInWithTotpMfaCode": "Enter your one-time passcode"
+}

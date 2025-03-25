@@ -1,0 +1,10 @@
+# app_identifier("[[APP_IDENTIFIER]]") # The bundle identifier of your app
+# apple_id("[[APPLE_ID]]") # Your Apple Developer Portal username
+
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
+app_identifier("io.jobturbo.jobturbo") # The bundle identifier of your app 
+apple_id("dimaotmakhov@gmail.com") # Your Apple Developer Portal username 
+itc_team_id("127026213") # App Store Connect Team ID 
+team_id("R3H344G4MA") # Developer Portal Team ID

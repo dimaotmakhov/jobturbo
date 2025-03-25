@@ -1,0 +1,12 @@
+JobTurbo is your intelligent job search companion that streamlines your job hunting process. With advanced AI technology, it helps you discover and track relevant job opportunities across multiple platforms.
+
+Key Features:
+• Smart Job Matching: Get personalized job recommendations based on your skills and preferences
+• Automated Job Search: Let our AI search for jobs while you focus on your applications (In free version only 10 job listings available)
+• Application Tracking: Keep track of all your job applications in one place 
+• Real-time Updates: Receive instant notifications for new job matches
+• Progress Analytics: Monitor your job search progress with detailed insights
+
+Whether you're actively looking for new opportunities or just exploring the market, JobTurbo makes your job search efficient and organized. Download now and take the next step in your career journey!
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/

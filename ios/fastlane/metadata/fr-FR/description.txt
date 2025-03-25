@@ -1,0 +1,12 @@
+JobTurbo est votre compagnon intelligent de recherche d'emploi qui rationalise votre processus de recherche professionnelle. Grâce à une technologie d'IA avancée, il vous aide à découvrir et à suivre des opportunités d'emploi pertinentes sur plusieurs plateformes.
+Fonctionnalités principales :
+
+Correspondance intelligente d'emplois : Obtenez des recommandations d'emploi personnalisées basées sur vos compétences et préférences
+Recherche d'emploi automatisée : Laissez notre IA rechercher des emplois pendant que vous vous concentrez sur vos candidatures (Dans la version gratuite, seules 10 offres d'emploi sont disponibles)
+Suivi des candidatures : Gardez une trace de toutes vos candidatures à un seul endroit
+Mises à jour en temps réel : Recevez des notifications instantanées pour les nouvelles correspondances d'emploi
+Analyse de progression : Suivez les progrès de votre recherche d'emploi avec des informations détaillées
+
+Que vous recherchiez activement de nouvelles opportunités ou que vous exploriez simplement le marché, JobTurbo rend votre recherche d'emploi efficace et organisée. Téléchargez maintenant et faites un pas de plus vers votre parcours professionnel !
+
+Conditions d'Utilisation: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/

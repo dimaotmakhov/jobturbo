@@ -1,0 +1,282 @@
+{
+     "@_SCREENSHOTS": {},
+  "trackYourApplications": "Traccia le Tue Candidature",
+  "monitorYourProgress": "Monitora il Tuo Progresso",
+  "effectively": "Efficacemente",
+  "efficiently": "Efficientemente",
+  "jobSearchAppGetsYou": "L'App di Ricerca Lavoro che Ti Capisce",
+  "hired": "Assunto",
+  "applyPositionsInDays": "Candìdati a 100+ Posizioni in 7 Giorni",
+  "visualizeYourProgress": "Visualizza il Tuo Progresso",
+  "clearly": "Chiaramente",
+    "appTitle": "Job Turbo",
+    "welcomeTitle1": "Cerca il tuo lavoro in tutto il mondo",
+    "welcomeDesc1": "Raggiungi aziende in cerca di dipendenti. Ecco una rapida panoramica.",
+    "welcomeTitle2": "Scheda Richieste",
+    "welcomeDesc2": "Ottieni più offerte fin dall'inizio con Richieste di Lavoro dinamiche. La tua richiesta si ripeterà nei giorni selezionati.",
+    "welcomeTitle3": "Scheda Candidatura",
+    "welcomeDesc3": "Cattura le posizioni non appena vengono pubblicate. La tua candidatura apparirà in evidenza in cima alla lista dei selezionatori.",
+    "welcomeTitle4": "Risultati Candidature",
+    "welcomeDesc4": "Raggiungi le richieste nel momento in cui cercano con una proposta. Abbineremo la tua richiesta alle aziende basandoci su un segnale diretto della loro intenzione - il loro termine di ricerca.",
+    "welcomeTitle5": "Collegamenti diretti ai siti web delle aziende",
+    "welcomeDesc5": "Raggiungi le aziende direttamente quando stanno attivamente ricercando sul mercato e raccogliendo informazioni per decidere se assumere. La tua richiesta apparirà alle aziende interessate senza intermediari.",
+    "welcomeTitle6": "Siamo qui per aiutare.",
+    "welcomeDesc6": "Ti aiuteremo a ottenere più offerte e candidarti a più lavori.",
+    "skip": "SALTA",
+    "next": "AVANTI",
+    "done": "FATTO",
+    "navRequest": "Richiesta",
+    "navApply": "Candidati",
+    "navProgress": "Progressi",
+
+    "@_JOB_LIST_SCREEN": {},
+    "noAppliedJobs": "Nessun lavoro candidato trovato finora",
+    "noPendingJobs": "Nessun lavoro in attesa trovato finora",
+    "noRejectedJobs": "Nessun lavoro rifiutato trovato finora",
+    "noSuccessfulJobs": "Nessuna candidatura riuscita trovata finora",
+    "noJobs": "Nessun lavoro trovato finora",
+
+    "@_APPLY_SCREEN": {},
+    "jobApplications": "Candidature di Lavoro",
+    "toApply": "Da Candidare",
+    "applied": "Candidato",
+    "noJobListings": "Nessuna offerta di lavoro trovata",
+    "markAsNotApplied": "Segna come non candidato",
+"subscribeForUpdates": "Mostra solo parte delle offerte di lavoro. Per vedere tutti i lavori, iscriviti a PRO",
+    "@_REQUEST_SCREEN": {},
+    "requests": "Richieste",
+    "noRequests": "Ancora nessuna richiesta. Tocca + per aggiungerne una.",
+    "addNewRequest": "Aggiungi Nuova Richiesta",
+    "selectCountry": "Seleziona paese",
+    "country": "Paese",
+    "pleaseSelectCountry": "Seleziona un paese",
+    "location": "Località",
+    "enterLocation": "Inserisci località",
+    "pleaseEnterLocation": "Inserisci una località",
+    "position": "Posizione",
+    "enterPosition": "Inserisci posizione",
+    "pleaseEnterPosition": "Inserisci una posizione",
+    "keywords": "Parole chiave",
+    "enterKeywordsSeparated": "Inserisci parole chiave separate da virgole",
+    "newBadge": "nuovo",
+    "cancel": "Annulla",
+    "create": "Crea",
+    "countryLabel": "Paese: {country}",
+    "locationLabel": "Località: {location}",
+    "keywordsLabel": "Parole chiave: {keywords}",
+
+    "@_PROGRESS_SCREEN": {},
+    "applicationProgress": "Progresso delle Candidature",
+    "appliedJobs": "Lavori Candidati",
+    "pendingJobs": "Lavori in Attesa",
+    "rejectedJobs": "Lavori Rifiutati",
+    "successfulApplications": "Candidature Riuscite",
+    "appliedStatus": "Candidato",
+    "noAnswerStatus": "Nessuna Risposta",
+    "rejectedStatus": "Rifiutato",
+    "successfulStatus": "Riuscito",
+
+    
+    "@_JOB_DETAIL_SCREEN": {},
+    "skillsAndTechnologies": "Competenze e Tecnologie",
+    "aboutTheCompany": "Informazioni sull'Azienda",
+    "noCompanyDescription": "Nessuna descrizione dell'azienda disponibile.",
+    "applyVia": "Candidati tramite",
+    "markAsApplied": "Contrassegna come Candidato",
+    "applied": "Candidato",
+    "tryAgain": "Riprova",
+    "goBack": "Indietro",
+    "errorLoadingJobPosting": "Impossibile caricare l'offerta di lavoro. Riprova più tardi.",
+    "errorRequestTimeout": "Impossibile caricare l'offerta di lavoro. Richiesta scaduta.",
+
+    "@_PAYWALL_SCREEN": {},
+    "premium": "Premium",
+    "premiumSubtitle": "Ottieni l'accesso a tutte le funzionalità premium",
+    "featureAllJobListings": "Tutti gli annunci di lavoro",
+    "planWeek": "1 Settimana",
+    "planYear": "1 Anno",
+    "bestValue": "Miglior Valore",
+    "errorPurchaseNotAvailable": "Gli acquisti in-app non sono disponibili su questo dispositivo.",
+    "errorWebPurchase": "Gli acquisti in-app non sono disponibili sul web. Utilizza la nostra app mobile.",
+    "errorFailedToLoad": "Impossibile caricare le opzioni di abbonamento",
+    "errorPurchasePending": "Attendi il completamento dell'acquisto in corso",
+    "errorPurchaseFailed": "Acquisto non riuscito: {error}",
+    "@errorPurchaseFailed": {
+        "placeholders": {
+            "error": {
+                "type": "Object"
+            }
+        }
+    },
+    "useMobileApp": "Utilizza la nostra app mobile per effettuare l'acquisto.",
+
+    "@_ACCOUNT_SETTINGS": {},
+    "deleteAccount": "Elimina account",
+    "deleteAccountConfirmation": "Sei sicuro di voler eliminare il tuo account? Questa azione non può essere annullata.",
+    "delete": "Elimina",
+    "cancel": "Annulla",
+    
+    "@_AUTHENTICATION": {},
+    "hello": "Ciao {firstName}!",
+    "@hello": {
+        "placeholders": {
+            "firstName": {
+                "type": "String",
+                "example": "Bob"
+            }
+        }
+    },
+    "signIn": "Accedi",
+    "signUp": "Crea account",
+    "confirm": "Conferma",
+    "continueLabel": "Continua",
+    "submit": "Invia",
+    "changePassword": "Cambia password",
+    "sendCode": "Invia codice",
+    "lostCode": "Codice perso?",
+    "verify": "Verifica",
+    "signOut": "Esci",
+    "signInWith": "Accedi con {provider}",
+    "@signInWith": {
+        "placeholders": {
+            "provider": {
+                "type": "String",
+                "example": "Google"
+            }
+        }
+    },
+    "noAccount": "Non hai un account?",
+    "haveAccount": "Hai già un account?",
+    "forgotPassword": "Password dimenticata?",
+    "confirmResetPassword": "Reimposta password",
+    "backTo": "Torna a {previousStep}",
+    "@backTo": {
+        "placeholders": {
+            "previousStep": {
+                "type": "String",
+                "example": "Accedi"
+            }
+        }
+    },
+    "skip": "Salta",
+    "copyKey": "Copia chiave",
+    "confirmSignUp": "Conferma registrazione",
+    "confirmSignInMfa": "Conferma accesso",
+    "confirmSignInNewPassword": "Conferma accesso",
+    "resetPassword": "Reimposta password",
+    "verifyUser": "Verifica utente",
+    "confirmVerifyUser": "Conferma verifica utente",
+    "username": "Nome utente",
+    "password": "Password",
+    "confirmAttribute": "Conferma {attribute}",
+    "@confirmAttribute": {
+        "placeholders": {
+        "attribute": {
+            "type": "String",
+            "example": "Password"
+        }
+        }
+    },
+    "passwordsDoNotMatch": "Le password non corrispondono",
+    "newPassword": "Nuova password",
+    "passwordConfirmation": "Conferma password",
+    "verificationCode": "Codice di verifica",
+    "customChallenge": "Codice di conferma",
+    "address": "Indirizzo",
+    "birthdate": "Data di nascita",
+    "email": "Email",
+    "familyName": "Cognome",
+    "gender": "Genere",
+    "givenName": "Nome",
+    "middleName": "Secondo nome",
+    "name": "Nome",
+    "nickname": "Soprannome",
+    "phoneNumber": "Numero di telefono",
+    "preferredUsername": "Nome utente preferito",
+    "rememberDevice": "Ricorda dispositivo?",
+    "selectSms": "Messaggio di testo (SMS)",
+    "selectTotp": "App di autenticazione (TOTP)",
+    "totpCodePrompt": "Inserisci il codice dalla tua app di autenticazione registrata",
+    "usernameType": "Accedi usando:",
+    "promptFill": "Inserisci il tuo {attribute}",
+    "@promptFill": {
+        "placeholders": {
+            "attribute": {
+                "type": "String",
+                "example": "Email"
+            }
+        }
+    },
+    "promptRefill": "Reinserisci il tuo {attribute}",
+    "@promptRefill": {
+        "placeholders": {
+            "attribute": {
+                "type": "String",
+                "example": "Password"
+            }
+        }
+    },
+    "warnEmpty": "Il campo {attribute} non può essere vuoto.",
+    "@warnEmpty": {
+        "placeholders": {
+            "attribute": {
+                "type": "String",
+                "example": "Password"
+            }
+        }
+    },
+    "warnInvalidFormat": "Formato {attributeType} non valido.",
+    "@warnInvalidFormat": {
+        "placeholders": {
+            "attributeType": {
+                "type": "String",
+                "example": "password"
+            }
+        }
+    },
+    "usernameRequirements": "Il nome utente deve contenere solo caratteri alfanumerici e simboli.",
+    "optional": "{fieldTitle} (opzionale)",
+    "@optional": {
+        "placeholders": {
+            "fieldTitle": {
+                "type": "String",
+                "example": "Email"
+            }
+        }
+    },
+    "passwordRequirementsPreamble": "La tua password deve includere:",
+    "passwordRequirementsAtLeast": "almeno {numCharacters, plural, =1{1 carattere {characterType}} other{{numCharacters} caratteri {characterType}}}",
+    "@passwordRequirementsAtLeast": {
+        "placeholders": {
+            "numCharacters": {
+                "type": "int"
+            },
+            "characterType": {
+                "type": "String"
+            }
+        }
+    },
+    "passwordRequirementsCharacterType": "{characterType, select, requiresUppercase{maiuscolo} requiresLowercase{minuscolo} requiresNumbers{numerico} requiresSymbols{simbolo} other{}}",
+    "@passwordRequirementsCharacterType": {
+        "placeholders": {
+            "characterType": {
+                "type": "String"
+            }
+        }
+    },
+    "codeSent": "Un codice di conferma è stato inviato a {destination}",
+    "@codeSent": {
+        "placeholders": {
+            "destination": {
+                "type": "String"
+            }
+        }
+    },
+    "codeSentUnknown": "Un codice di conferma è stato inviato.",
+    "copySucceeded": "Copiato negli appunti!",
+    "copyFailed": "Copia negli appunti fallita.",
+    "confirmSignInCustomAuth": "Inserisci il tuo codice di accesso",
+    "continueSignInWithMfaSelection": "Seleziona il tuo metodo preferito di autenticazione a due fattori",
+    "continueSignInWithTotpSetup": "Attiva autenticazione a due fattori",
+    "confirmSignInWithTotpMfaCode": "Inserisci il tuo codice monouso"
+}

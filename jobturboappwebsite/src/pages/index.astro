@@ -1,0 +1,166 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Gallery from '../components/Gallery.astro';
+---
+
+<Layout title="Job Turbo - Track Your Job Applications">
+	<div class="overflow-hidden">
+		<!-- Hero Section -->
+		<section class="relative bg-gradient-to-b from-blue-50 to-white pt-20 pb-32">
+			<div class="container mx-auto px-4">
+				<div class="max-w-4xl mx-auto text-center space-y-8 animate-fade-in">
+					<h1 class="text-5xl md:text-6xl font-bold text-gray-900 leading-tight">
+						The Job Search App That Gets You <span class="text-blue-600">Hired</span>
+					</h1>
+					<p class="text-xl text-gray-600 max-w-2xl mx-auto">
+						Track your applications, monitor your progress, and apply to 100+ positions in 7 days.
+					</p>
+					<div>
+						<a href="https://apps.apple.com/app/jobturbo/id6737511223" class="inline-block">
+							<img src="/download-on-the-app-store.svg" alt="Download on the App Store" class="h-12">
+						</a>
+					</div>
+				</div>
+			</div>
+			<!-- Decorative elements -->
+			<div class="absolute top-1/2 left-0 w-48 h-48 bg-blue-100 rounded-full mix-blend-multiply filter blur-xl opacity-70 animate-blob"></div>
+			<div class="absolute top-1/2 right-0 w-48 h-48 bg-purple-100 rounded-full mix-blend-multiply filter blur-xl opacity-70 animate-blob animation-delay-2000"></div>
+		</section>
+
+		<!-- Features Section -->
+		<section class="py-20">
+			<div class="container mx-auto px-4">
+				<div class="grid grid-cols-1 md:grid-cols-3 gap-12">
+					<div class="group p-6 bg-white rounded-2xl shadow-sm hover:shadow-md transition-shadow duration-300">
+						<div class="space-y-4">
+							<div class="w-12 h-12 bg-blue-100 rounded-lg flex items-center justify-center group-hover:scale-110 transition-transform duration-300">
+								<svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+									<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
+								</svg>
+							</div>
+							<h3 class="text-xl font-semibold">Track Your Applications</h3>
+							<p class="text-gray-600">Monitor your job applications effectively and efficiently in one place.</p>
+						</div>
+					</div>
+
+					<div class="group p-6 bg-white rounded-2xl shadow-sm hover:shadow-md transition-shadow duration-300">
+						<div class="space-y-4">
+							<div class="w-12 h-12 bg-purple-100 rounded-lg flex items-center justify-center group-hover:scale-110 transition-transform duration-300">
+								<svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-purple-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+									<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
+								</svg>
+							</div>
+							<h3 class="text-xl font-semibold">Visualize Your Progress</h3>
+							<p class="text-gray-600">See your job search progress clearly with intuitive visualizations.</p>
+						</div>
+					</div>
+
+					<div class="group p-6 bg-white rounded-2xl shadow-sm hover:shadow-md transition-shadow duration-300">
+						<div class="space-y-4">
+							<div class="w-12 h-12 bg-green-100 rounded-lg flex items-center justify-center group-hover:scale-110 transition-transform duration-300">
+								<svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-green-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+									<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
+								</svg>
+							</div>
+							<h3 class="text-xl font-semibold">Apply Efficiently</h3>
+							<p class="text-gray-600">Apply to 100+ positions in just 7 days with our streamlined process.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<!-- Gallery Section -->
+		<Gallery />
+
+		<!-- How It Works Section -->
+		<section class="py-20 bg-gray-50">
+			<div class="container mx-auto px-4">
+				<h2 class="text-3xl font-bold text-center mb-16">How It Works</h2>
+				<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12">
+					{[
+						{
+							title: "Search your job across the Globe",
+							description: "Reach companies looking for employees. Here's a quick tour."
+						},
+						{
+							title: "Request Tab",
+							description: "Get more offers from the start with dynamic Job Requests. Your request will repeat on selected days."
+						},
+						{
+							title: "Apply Tab",
+							description: "Capture positions right when they begin their publication. Your apply will appear prominently at the top of the recruiters list."
+						},
+						{
+							title: "Apply results",
+							description: "Reach requests the moment they search with a proposal. We'll match your request with companies based on their search term."
+						},
+						{
+							title: "Direct links to companies websites",
+							description: "Reach businesses directly when they actively researching market. Your request will appear to interested company without third-party."
+						},
+						{
+							title: "We are here to help",
+							description: "We'll help you to get more offers and apply for more jobs."
+						}
+					].map((item, index) => (
+						<div class="bg-white p-6 rounded-2xl shadow-sm hover:shadow-md transition-all duration-300 transform hover:-translate-y-1">
+							<div class="flex items-center space-x-4 mb-4">
+								<div class="w-8 h-8 bg-blue-600 text-white rounded-full flex items-center justify-center font-semibold">
+									{index + 1}
+								</div>
+								<h3 class="font-semibold">{item.title}</h3>
+							</div>
+							<p class="text-gray-600">{item.description}</p>
+						</div>
+					))}
+				</div>
+			</div>
+		</section>
+
+		<!-- CTA Section -->
+		<section class="py-20">
+			<div class="container mx-auto px-4">
+				<div class="bg-blue-600 rounded-3xl p-12 text-center text-white">
+					<h2 class="text-3xl font-bold mb-6">Ready to Get Hired?</h2>
+					<p class="text-xl mb-8 text-blue-100">Download Job Turbo today and take control of your job search</p>
+					<a href="https://apps.apple.com/app/jobturbo/id6737511223" class="inline-block">
+						<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" class="h-12">
+					</a>
+				</div>
+			</div>
+		</section>
+	</div>
+</Layout>
+
+<style>
+	@keyframes blob {
+		0% { transform: translate(0px, 0px) scale(1); }
+		33% { transform: translate(30px, -50px) scale(1.1); }
+		66% { transform: translate(-20px, 20px) scale(0.9); }
+		100% { transform: translate(0px, 0px) scale(1); }
+	}
+	
+	.animate-blob {
+		animation: blob 7s infinite;
+	}
+	
+	.animation-delay-2000 {
+		animation-delay: 2s;
+	}
+	
+	@keyframes fadeInUp {
+		from {
+			opacity: 0;
+			transform: translateY(20px);
+		}
+		to {
+			opacity: 1;
+			transform: translateY(0);
+		}
+	}
+	
+	.animate-fade-in {
+		animation: fadeInUp 0.6s ease-out forwards;
+	}
+</style>
